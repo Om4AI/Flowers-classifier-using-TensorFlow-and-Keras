@@ -10,3 +10,5 @@ really an efficient tool that helps to train out models faster by providing **GP
 ![Google Colab](https://miro.medium.com/max/2560/1*8N7xbq6ahVvWkEq_S5EhMA.jpeg)
 
   ### *This repository contains the **Flowers Classifier** that is used to classify **5 types** of flowers accurately !*
+  
+  #### *Code for making predictions on your images from desktop is also included with explanation (Prediction.py) !!*
