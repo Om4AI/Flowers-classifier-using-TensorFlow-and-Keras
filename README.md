@@ -9,4 +9,4 @@ really an efficient tool that helps to train out models faster by providing **GP
 
 ![Google Colab](https://miro.medium.com/max/2560/1*8N7xbq6ahVvWkEq_S5EhMA.jpeg)
 
-  ## *This repo contains the **Flowers Classifier** that is used to classify **5 types** of flowers accurately !*
+  ### *This repository contains the **Flowers Classifier** that is used to classify **5 types** of flowers accurately !*
