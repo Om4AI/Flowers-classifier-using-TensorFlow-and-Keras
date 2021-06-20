@@ -11,4 +11,4 @@ really an efficient tool that helps to train out models faster by providing **GP
 
   ### *This repository contains the **Flowers Classifier** that is used to classify **5 types** of flowers accurately !*
   
-  #### *Code for making predictions on your images from desktop is also included with explanation (Prediction.py) !!*
+  #### *Code for making predictions on your images from desktop is also included with explanation (Prediction.py) !*
